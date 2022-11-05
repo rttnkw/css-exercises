@@ -1,3 +1,4 @@
+/*-----chaining selectors, without whitespace-----*/
 .avatar.proportioned {
     width: 300px;
     height: auto;
